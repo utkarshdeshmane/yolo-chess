@@ -49,7 +49,7 @@ if uploaded_file is not None:
     df["class_name"] = class_labels  # Add class names to the table
 
     # Display results as a table
-    st.write(df)
+    #st.write(df)
 
     # Draw bounding boxes on image
     for i, row in df.iterrows():
