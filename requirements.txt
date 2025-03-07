@@ -6,3 +6,4 @@ streamlit==1.37.1
 torch==2.6.0
 ultralytics
 pip==25.0.1
+opencv-python-headless
